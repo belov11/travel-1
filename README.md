@@ -1,1 +1,1 @@
-https://belov11.github.io/travel/
+https://belov11.github.io/travel-1/
