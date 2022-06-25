@@ -117,7 +117,7 @@ nav {
 }
 
 .preview {    
-    background-image: url("/img/travel.jpg");
+    background-image: url("../img/travel.jpg");
     min-height: 765px;
     position: relative;
     padding-left: 120px;
